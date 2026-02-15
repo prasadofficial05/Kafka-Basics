@@ -1,0 +1,8 @@
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/Config/AppConstants.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/Config/KafkaConfig.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/Controller/UserRegisterController.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/Entity/UserRegister.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/Repo/UserRegisterRepo.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/UserRegistrationApplication.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/service/KafkaService.java
+/Users/prasaddeore/Documents/workspacePractice/UserRegistration/src/main/java/com/UserRegistration/service/UserRegisterService.java
